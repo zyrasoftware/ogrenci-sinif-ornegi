@@ -11,6 +11,7 @@
 # `main` Fonksiyonu
 - `main` fonksiyonu, iki öğrenci nesnesi oluşturur (Ali ve Ayşe).
 - Notları belirlenir ve bilgileri ekrana yazdırmak için `displayInfo` fonksiyonu kullanılır.
+ - `setlocale(LC_ALL, "Turkish");` ifadesi ile Türkçe karakter desteği sağlanır.
 
 # Örnek Kullanım
 - `main` fonksiyonu içinde öğrenci nesneleri oluşturularak notları belirlenir.
